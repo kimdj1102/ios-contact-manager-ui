@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "MOCK_DATA.json",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
